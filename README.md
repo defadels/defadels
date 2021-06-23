@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=defadels&show_icons=true)](https://github.com/defadels)
 
-## My Top Language
+## My Most Used Language
 
 ![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&langs_count=6&layout=compact)
