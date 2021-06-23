@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+## Contact me
 
-**defadels/defadels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Facebook](https://facebook.com/defadels) | [Twitter](https://twitter.com/defadels) | [Instagram](https://instagram.com/fadhil.adhaa) |  
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Status
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/defadels)
