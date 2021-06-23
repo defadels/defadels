@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=IhsanGan&color=brightgreen)
 
 ## Contact me
 
@@ -18,3 +19,7 @@ Here are some ideas to get you started:
 ## Status
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=defadels&show_icons=true)](https://github.com/defadels)
+
+## My Top Language
+
+![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&langs_count=6&layout=compact)
