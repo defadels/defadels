@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Status
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/defadels)
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=defadels&show_icons=true)](https://github.com/defadels)
