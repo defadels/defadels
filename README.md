@@ -26,4 +26,4 @@
 
 ## My Most Used Language
 
-![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&langs_count=6&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&theme=vue">
