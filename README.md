@@ -8,7 +8,7 @@
 
 ## Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=defadels&bg_color=000000&color=fefefe&line=7f3ace&point=fefefe&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=defadels&bg_color=ecf0f1&color=fefefe&line=7f3ace&point=fefefe&area=true&hide_border=true)
 
 
 <!-- (https://github.com/defadels)|<img width="432" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defadels&layout=compact&langs_count=8&theme=midnight-purple&hide=css,tsql,html,scss,less,makefile,shell,dockerfile&hide_border=true" /><br/> -->
