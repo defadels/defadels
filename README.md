@@ -35,7 +35,7 @@
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=defadels&show_icons=true)](https://github.com/defadels)
 
 ## Streak
-|[![GitHub Statistic](https://github-readme-stats-eight-theta.vercel.app/api?username=defadels&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/defadels)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=defadels&theme=midnight-purple&hide_border=true)](https://github.com/defadels)|
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=defadels&hide_border=true)](https://github.com/defadels)|
 
 ## My Most Used Language
 
