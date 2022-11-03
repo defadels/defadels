@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+ <head>
+  <!-- Place this tag in your head or just before your close body tag. -->
+ <script async defer src="https://buttons.github.io/buttons.js"></script>
+ </head>
+<html>
+
+<body>
+
 ### Hi there 👋
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=defadels&color=brightgreen) -->
 
@@ -38,6 +47,6 @@
 ## My Most Used Language
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&theme=vue">
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+ 
+ </body>
+ </html>
