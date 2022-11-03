@@ -18,7 +18,9 @@
 ## Contact me
 
 [Facebook](https://facebook.com/defadels) | [Twitter](https://twitter.com/defadels) | [Instagram](https://instagram.com/fadhil.adhaa) |  
-
+ 
+<a class="btn btn-sm btn-primary" href="https://facebook.com/defadels">Facebook</a> <a class="btn btn-sm btn-info" href="https://twitter.com/defadels">Twitter</a> <a class="btn btn-sm btn-info" href="https://instagram.com/fadhil.adhaa">Instagram</a> 
+ 
 <!-- Here are some ideas to get you started: -->
 <!-- 
 - 🔭 I’m currently working on ...
