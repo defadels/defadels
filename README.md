@@ -30,11 +30,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## Status
+## Status & Streak
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=defadels&show_icons=true)](https://github.com/defadels)
-
-## Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=defadels&hide_border=true)](https://github.com/defadels)|
 
 ## My Most Used Language
