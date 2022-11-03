@@ -17,9 +17,8 @@
 
 ## Contact me
 
-[Facebook](https://facebook.com/defadels) | [Twitter](https://twitter.com/defadels) | [Instagram](https://instagram.com/fadhil.adhaa) |  
- 
-<a class="btn btn-sm btn-primary" href="https://facebook.com/defadels">Facebook</a> <a class="btn btn-sm btn-info" href="https://twitter.com/defadels">Twitter</a> <a class="btn btn-sm btn-info" href="https://instagram.com/fadhil.adhaa">Instagram</a> 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://linktr.ee/defadels" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @buttons on GitHub">Touch Me!</a>
  
 <!-- Here are some ideas to get you started: -->
 <!-- 
