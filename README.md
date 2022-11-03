@@ -1,11 +1,4 @@
-<!DOCTYPE html>
- <head>
-  <!-- Place this tag in your head or just before your close body tag. -->
- <script async defer src="https://buttons.github.io/buttons.js"></script>
- </head>
-<html>
 
-<body>
 
 ### Hi there 👋
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=defadels&color=brightgreen) -->
@@ -21,13 +14,6 @@
 
 
 <!-- (https://github.com/defadels)|<img width="432" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defadels&layout=compact&langs_count=8&theme=midnight-purple&hide=css,tsql,html,scss,less,makefile,shell,dockerfile&hide_border=true" /><br/> -->
-
-
-
-## Contact me
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://linktr.ee/defadels" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @buttons on GitHub">Touch Me!</a>
  
 <!-- Here are some ideas to get you started: -->
 <!-- 
@@ -47,6 +33,4 @@
 ## My Most Used Language
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&theme=vue">
- 
- </body>
- </html>
+
