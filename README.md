@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=defadels&color=brightgreen) -->
 
-![Profile views]<img src="https://komarev.com/ghpvc/?username=defadels&style=for-the-badge&color=7f3ace&bg=000"/><br/>
+<img src="https://komarev.com/ghpvc/?username=defadels&style=for-the-badge&color=7f3ace&bg=000"/><br/>
 ![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true&colorA=%23000000&colorB=%23ff0000&template=for-the-badge)
 
 ![Muhammad Fadhil Adha's card name](https://cardivo.vercel.app/api?name=Muhammad%20Fadhil%20Adha&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/59252427?v=4&backgroundColor=%23ecf0f1&instagram=fadhil.adhaa&linkedin=%Muhammad%20Fadhil%20Adha%20%20&github=defadels&twitter=defadels&pattern=ticTacToe&colorPattern=%23eaeaea)
