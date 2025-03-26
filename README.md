@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=defadels&style=for-the-badge&color=7f3ace&bg=000"/><br/>
 ![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true&colorA=%23000000&colorB=%23ff0000&template=for-the-badge)
 
-![Muhammad Fadhil Adha's card name](https://cardivo.vercel.app/api?name=Muhammad%20Fadhil%20Adha&description=Hi,%20i%27m%20a%20fullstack%20web%20developer%20and%20i%27m%20very%20interest%20to%20mobile%20development.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/59252427?v=4&backgroundColor=%23ecf0f1&instagram=fadhil.adhaa&linkedin=%Muhammad%20Fadhil%20Adha%20%20&github=defadels&twitter=defadels&pattern=ticTacToe&colorPattern=%23eaeaea)
+![Muhammad Fadhil Adha's card name](https://cardivo.vercel.app/api?name=Muhammad%20Fadhil%20Adha&description=Hi,%20i%27m%20a%20fullstack%20web%20developer%20who%20i%27m%20focus%20on%20stack%20TALL%20TailwindCSS,%20Alpine.js,%20Laravel,%20Livewire%20.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/59252427?v=4&backgroundColor=%23ecf0f1&instagram=fadhil.adhaa&linkedin=%Muhammad%20Fadhil%20Adha%20%20&github=defadels&twitter=defadels&pattern=ticTacToe&colorPattern=%23eaeaea)
 
 
 <a href="https://github.com/zuramai">
