@@ -28,7 +28,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## My Most Used Language
+<!-- ## My Most Used Language -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&theme=vue">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&theme=vue"> -->
 
