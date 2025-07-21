@@ -9,12 +9,12 @@
 ![Muhammad Fadhil Adha's card name](https://cardivo.vercel.app/api?name=Muhammad%20Fadhil%20Adha&description=Hi,%20i%27m%20a%20fullstack%20web%20developer%20who%20focus%20on%20stack%20TALL%20(TailwindCSS,%20Alpine.js,%20Laravel,%20Livewire)&image=https://avatars.githubusercontent.com/u/59252427?v=4&backgroundColor=%23ecf0f1&instagram=fadhil.adhaa&linkedin=%Muhammad%20Fadhil%20Adha%20%20&github=defadels&twitter=defadels&pattern=ticTacToe&colorPattern=%23eaeaea)
 
 
-<a href="https://github.com/zuramai">
+<a href="https://github.com/defadels">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=defadels&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/zuramai">
+<!-- <a href="https://github.com/defadels">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defadels&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+</a> -->
  
 <!-- Here are some ideas to get you started: -->
 <!-- 
